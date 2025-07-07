@@ -83,7 +83,7 @@ petForm.addEventListener("submit", function (event) {
   petForm.reset(); // Resetto il form
 });
 
-// Esempio di utilizzo del metodo hasSameOwner (puoi vedere il risultato in console)
+// Esempio di utilizzo del metodo hasSameOwner (risultato in console)
 // const petA = new Pet('Fido', 'Mario', 'cane', 'labrador');
 // const petB = new Pet('Micio', 'Mario', 'gatto', 'soriano');
 // console.log(petA.hasSameOwner(petB)); // true
